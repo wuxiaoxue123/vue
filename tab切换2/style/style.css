@@ -1,0 +1,41 @@
+*{
+    margin:0;
+    padding:0;
+    list-style: none;
+    box-sizing: border-box;
+}
+.tab{
+    width:600px;
+    height:300px;
+    border:1px solid #000;
+    position:absolute;
+    top:0;
+    left:0;
+    right:0;
+    bottom:0;
+    margin:auto;
+}
+.oul{
+    width:600px;
+    height:70px;
+    border-bottom:1px solid #000;
+}
+.oul li{
+    float:left;
+    width:25%;
+    text-align: center;
+    line-height: 70px;
+    border-right:1px solid #000;
+}
+.ool{
+    width:100%;
+    height:230px;
+    overflow: hidden;
+}
+.ool li{
+    width:100%;
+    height:230px;
+}
+.on{
+    background:pink!important;
+}
